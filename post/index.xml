@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Elstudent</title>
+    <link>https://r3zblog.github.io/myblog/post/index.xml</link>
+    <description>Recent content in Posts on Elstudent</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2017 12:44:14 +0200</lastBuildDate>
+    <atom:link href="https://r3zblog.github.io/myblog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First Post</title>
+      <link>https://r3zblog.github.io/myblog/post/First-Post/</link>
+      <pubDate>Sat, 01 Apr 2017 12:44:14 +0200</pubDate>
+      
+      <guid>https://r3zblog.github.io/myblog/post/First-Post/</guid>
+      <description>&lt;p&gt;This is my first post on this blog. I will be writing about what I learn through the time at school or job.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
